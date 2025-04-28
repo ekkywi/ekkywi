@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on e-office project<br>🌱 I’m currently learning on web and mobile app development<br>💬 Ask me about nothing<br>⚡ Fun fact, my life is a big joke
+🔭 I’m currently working on e-office project<br>🌱 I’m currently learning on web, mobile, and desktop app development<br>💬 Ask me about nothing<br>⚡ Fun fact, my life is a big joke
 
 
 ## 🌐 Socials:
